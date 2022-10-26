@@ -17,7 +17,6 @@ If your using VS code  *(As you should be)* you can install these extensions. Th
     src = "./imgs/packages.png"
     alt = "packages"
 />
-
 ## Installing the workshop files
 To get these workshops onto your pc their are two ways of doing it.
 ### Method One - Google collab
