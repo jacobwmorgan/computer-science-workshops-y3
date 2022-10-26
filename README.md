@@ -1,5 +1,6 @@
 # Machine learning Workshops - Year 3
 Here are all the machine learning workshops formatted into a nicer looking thing
+[Notion page with lecture notes on] (https://cloud-hyacinth-ea4.notion.site/CMP3751-Machine-Learning-0b4c90426bd04251af85b19374e86675)
 
 
 To install all the required libraries run this line in your terminal. If you dont have pip installed then follow this tutorial | [windows](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)|  [linux](https://www.geeksforgeeks.org/how-to-install-pip-in-linux/?ref=rp)
