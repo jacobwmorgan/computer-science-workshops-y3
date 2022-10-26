@@ -13,7 +13,7 @@ If your using VS code  *(As you should be)* you can install these extensions. Th
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 50%;"
+           width: 20%;"
     src = "./imgs/packages.png"
     alt = "packages"
 />
