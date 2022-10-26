@@ -23,6 +23,9 @@ To get these workshops onto your pc their are two ways of doing it.
 ### Method One - Google collab
 GitHub has a super cool way of opening `ipynb` files.
 If you click on one of the files in the repo GitHub should show you something like this.
+
+
+
 <img 
     style="display: block; 
            margin-left: auto;
