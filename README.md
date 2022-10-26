@@ -33,6 +33,9 @@ If you click on one of the files in the repo GitHub should show you something li
     src = "./imgs/collab.png"
     alt = "collab example"
 />
+
+
+Clicking on the google collab button should open the file in google collab. 
 ### Method Two - Cloning the Repo
 Open your terminal in the directory you wanna use or cd into the directory.
 ```github
