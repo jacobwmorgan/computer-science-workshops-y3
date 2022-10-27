@@ -11,6 +11,12 @@ We're not to fond of the way the workshops are layed out. Therefore we took on t
 <!--- 
 Add a description of how to install the workshops
 -->
+
+### Installation
+Open your terminal in the directory you wanna use or cd into the directory.
+```github
+git clone https://github.com/jacobwmorgan/computer-science-workshops-y3
+```
 ---
 ### Contributors 
 <div  style="text-align:center;">
@@ -21,8 +27,9 @@ Add a description of how to install the workshops
 </div>
 
 
-- [Jacob Morgan](https://www.discordapp.com/users/746231828905459714)
+<br/>
+If theres any issues contact us on discord. Alternatively make an issue on this repo. 
+<br/>
 
-
-Click on our names to contact us on discord.
-If there is any issues with this project please message me on there. Alternatively bring up a problem on this github page 
+- Joe [TheAverageJoe#4923]
+- Jacob [jakey#7299]
